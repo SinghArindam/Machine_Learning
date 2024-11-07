@@ -1,7 +1,3 @@
-Sno.
-
-Topic
-
 1
 
 To study about numpy, pandas and matplotlib libraries in python.
