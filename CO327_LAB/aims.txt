@@ -1,0 +1,39 @@
+Sno.
+
+Topic
+
+1
+
+To study about numpy, pandas and matplotlib libraries in python.
+
+2
+
+To perform data preprocessing and data summarization on iris dataset.
+
+3
+
+To perform data preprocessing and data visualization on iris dataset.
+
+4
+
+To implement k means clustering.
+
+5
+
+To implement data classification using KNN.
+
+6
+
+To implement decision tree using ID3 algorithm.
+
+7
+
+To implement decision tree using CART algorithm.
+
+8
+
+To implement decision tree using C4.5 algorithm.
+
+9
+
+To implement multi layer neural network.
