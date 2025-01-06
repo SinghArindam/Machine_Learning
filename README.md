@@ -111,12 +111,15 @@ This repository contains a structured roadmap for learning Python, mathematics, 
    
    **Spoken Language Recognition**:
    - 7.6 [Spoken Language Identification | Pitch - Pi School (YouTube)](https://www.youtube.com/watch?v=MM0jm55m6tY)  
-
+   - 7.7 [Spoken Language Identification using DNNs - Manish Singh (YouTube)](https://www.youtube.com/watch?v=YjABE-AxgjQ)
    **Spoken Emotion Recognition**:
-   - 7.7 [...]
+   - 7.x [...]
 
    **Speaker Diarization**:
-   - 7.8 [...]
+   - 7.x [...]
+
+   **Research Papers**:
+   - 7.x [...]
 
 ---
 
