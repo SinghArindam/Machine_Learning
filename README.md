@@ -2,6 +2,16 @@
 
 This repository contains a structured roadmap for learning Python, mathematics, and machine learning concepts, along with recommended resources and additional insights to explore advanced topics and research.
 
+## File Structure
+
+```plaintext
+Machine_Learning/
+├── AudioSignalProcessingForML/  # Resources and projects related to audio signal processing in ML
+├── CO327_LAB/                   # Laboratory exercises and materials for CO327 course
+├── Learn_Pytorch/               # Tutorials and projects focused on learning PyTorch
+├── Practice_Projects/           # Various practice projects for hands-on ML experience
+├── README.md                    # Overview of the repository
+```
 ---
 
 ## 📚 Table of Contents
@@ -128,21 +138,76 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 
 ## Projects
 
+- **Audio Signal Processing for ML**: Explore projects and resources related to processing audio signals for machine learning applications.
+
+- **Learn PyTorch**: Dive into tutorials and projects aimed at mastering PyTorch for building ML models.
+
+- **Practice Projects**: Engage with various hands-on projects to apply and reinforce machine learning concepts.
+
 ---
 
 ## Installation
 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SinghArindam/Machine_Learning.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd Machine_Learning
+   ```
+
+3. **Set up your environment**:
+   - It's recommended to use a virtual environment:
+     ```bash
+     python -m venv venv
+     source .\venv\Scripts\activate
+     ```
+
+4. **Install necessary packages**:
+   - Install required packages using `pip`:
+     ```bash
+     pip install -r requirements.txt  # If a requirements file is provided
+     ```
+   - For individual projects, refer to their specific instructions for package installations.
+
 ---
 
 ## Usage
-
+Use it folowing the roadmap, to dive into Research fields of Machine Learning. This is specifically tailored for Speech and Audio Processing for ML.
+- 1. AudioProcessingForML is an updated version of resources- codes and notes from Valerio Velardo, read respective Readme.md for the same.
+- 2. Learn Pytorch is follow along of [ Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
+- 3. Practice Projects can be used for learning through small projects,  read respective Readme.md for the same.
 ---
 
 ## Technologies Used
+- **Programming Language**: Python
+- **Libraries/Frameworks**:
+  - NumPy
+  - Pandas
+  - Scikit-learn
+  - TensorFlow/PyTorch
+  - Matplotlib/Seaborn for visualization
 
 ---
 
 ## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Brief description of changes"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a Pull Request.
 
 ---
 
