@@ -108,6 +108,15 @@ This repository contains a structured roadmap for learning Python, mathematics, 
    - 7.3 [How to Select a Research Topic - Valerio Velardo (YouTube)](https://youtube.com/playlist?list=PL-wATfeyAMNrTDAV2A-pLxVpwXadbd-4O&si=pcyb6vU65FbVUI8Y)  
    - 7.4 [How to Read AI Audio Research Papers - Valerio Velardo (YouTube)](https://youtube.com/playlist?list=PL-wATfeyAMNqwhLIBEX7lS-sYIQTcEPxY&si=PZXRI6mTgxpYsPiR)  
    - 7.5 [How to Write a Research Paper - Valerio Velardo (YouTube)](https://youtube.com/playlist?list=PL-wATfeyAMNrTDAV2A-pLxVpwXadbd-4O&si=c5Z7Zo43iyEPDbQG)  
+   
+   **Spoken Language Recognition**:
+   - 7.6 [Spoken Language Identification | Pitch - Pi School (YouTube)](https://www.youtube.com/watch?v=MM0jm55m6tY)  
+
+   **Spoken Emotion Recognition**:
+   - 7.7 [...]
+
+   **Speaker Diarization**:
+   - 7.8 [...]
 
 ---
 
