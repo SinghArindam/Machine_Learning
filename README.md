@@ -30,38 +30,39 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 ### 1. Python 
    **Recommended Resource**: [YouTube - Tech With Tim](https://www.youtube.com/@TechWithTim)
    - **Topics**: 
-
-     1.1 Lists  
-     1.2 Dictionaries  
-     1.3 Advanced Topics:
-       - 1.3.1 List Comprehension  
-       - 1.3.2 Class Objects  
+     - 1.1 Lists  
+     - 1.2 Dictionaries  
+     - 1.3 Advanced Topics:
+       -- 1.3.1 List Comprehension  
+       -- 1.3.2 Class Objects  
 
 ---
 
 ### 2. Maths 
-   - **Topics**:
-     2.1 Basics of Calculus  
-     2.2 Linear Algebra:
+   - **Topics**: 
+
+     - 2.1 Basics of Calculus  
+     - 2.2 Linear Algebra:
        - **Recommended Resource**: [MIT OpenCourseWare - Prof. Gilbert Strang](https://ocw.mit.edu/)
        - **Reason**: Best Course IMO  
-     2.3 Statistics  
-     2.4 Examples:
+     - 2.3 Statistics  
+     - 2.4 Examples:
        - What is a derivative, and how to compute it?
        - What is a dot product in a matrix, and how it works?  
 
 ---
 
 ### 3. Python Libraries 
-   - **Libraries to Learn**:
-     3.1 Jupyter  
-     3.2 Pandas  
-     3.3 NumPy  
-     3.4 Matplotlib  
-     3.5 PyTorch *(Learn during [4. Machine Learning](#4-machine-learning))*
-     3.6 TensorFlow *(Learn during [4. Machine Learning](#4-machine-learning))*
-     3.7 Keras *(Learn during [4. Machine Learning](#4-machine-learning))*
-     3.8 Extras:
+   - **Libraries to Learn**: 
+
+     - 3.1 Jupyter  
+     - 3.2 Pandas  
+     - 3.3 NumPy  
+     - 3.4 Matplotlib  
+     - 3.5 PyTorch *(Learn during [4. Machine Learning](#4-machine-learning))* 
+     - 3.6 TensorFlow *(Learn during [4. Machine Learning](#4-machine-learning))* 
+     - 3.7 Keras *(Learn during [4. Machine Learning](#4-machine-learning))* 
+     - 3.8 Extras:
        - Spyder Notebook  
        - SciPy  
        - Scikit-learn
@@ -69,7 +70,8 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 ---
 
 ### 4. Machine Learning 
-   **Recommended Resources**:
+   **Recommended Resources**: 
+
    - 4.1 Andrew Ng Coursera 3-Course Series  
    - 4.2 [YouTube - Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/)  
    - 4.3 Extra: Deep Learning Specialization (5-course series) on Coursera  
@@ -87,9 +89,9 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 
 ### 6. Extras 
    - **Topics**:
-     6.1 Curiosity in Gaussian Models: [Video](https://youtu.be/cy8r7WSuT1I)  
-     6.2 Pre-CNN and Residual Nets: [Video](https://youtu.be/KuXjwB4LzSA)  
-     6.3 CNN and Residual Nets:
+     - 6.1 Curiosity in Gaussian Models: [Video](https://youtu.be/cy8r7WSuT1I)  
+     - 6.2 Pre-CNN and Residual Nets: [Video](https://youtu.be/KuXjwB4LzSA)  
+     - 6.3 CNN and Residual Nets:
        - [Video 1](https://youtu.be/pj9-rr1wDhM)  
        - [Video 2](https://youtu.be/o_3mboe1jYI)  
 
