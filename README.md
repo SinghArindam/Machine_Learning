@@ -71,7 +71,8 @@ Machine_Learning/
      - 3.2 Pandas  
      - 3.3 NumPy  
      - 3.4 Matplotlib  
-     - 3.5 PyTorch *(Learn during [4. Machine Learning](#4-machine-learning))* 
+     - 3.5 PyTorch *(Learn during [4. Machine Learning](#4-machine-learning))*  
+     [Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A)
      - 3.6 TensorFlow *(Learn during [4. Machine Learning](#4-machine-learning))* 
      - 3.7 Keras *(Learn during [4. Machine Learning](#4-machine-learning))* 
      - 3.8 Extras:
@@ -177,7 +178,7 @@ Machine_Learning/
 ## Usage
 Use it folowing the roadmap, to dive into Research fields of Machine Learning. This is specifically tailored for Speech and Audio Processing for ML.
 - 1. AudioProcessingForML is an updated version of resources- codes and notes from Valerio Velardo, read respective Readme.md for the same.
-- 2. Learn Pytorch is follow along of [ Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
+- 2. Learn Pytorch is follow along of [Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
 - 3. Practice Projects can be used for learning through small projects,  read respective Readme.md for the same.
 ---
 
