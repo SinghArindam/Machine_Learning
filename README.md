@@ -29,8 +29,7 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 
 ### 1. Python 
    **Recommended Resource**: [YouTube - Tech With Tim](https://www.youtube.com/@TechWithTim)
-   - **Topics**:
-   
+   - **Topics**:\n
      1.1 Lists  
      1.2 Dictionaries  
      1.3 Advanced Topics:
