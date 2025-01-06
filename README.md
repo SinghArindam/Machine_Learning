@@ -87,6 +87,8 @@ This repository contains a structured roadmap for learning Python, mathematics, 
    - 5.2 [PyTorch for Audio + Music Processing - Valerio Velardo (YouTube)](https://youtube.com/playlist?list=PL-wATfeyAMNoirN4idjev6aRu8ISZYVWm&si=-zkiDj6CkFlKF69O)  
    - 5.3 [Audio Classification - Seth Adams (YouTube)](https://youtube.com/playlist?list=PLhA3b2k8R3t0SYW_MhWkWS5fWg-BlYqWn&si=nGune89ZoEaGROFb)  
 
+   **Extras**: 
+   - 5.4 [Deep Learning With Tensorflow 2 0, Keras and Python - codebasics (YouTube)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 ---
 
 ### 6. Extras 
@@ -112,6 +114,7 @@ This repository contains a structured roadmap for learning Python, mathematics, 
    **Spoken Language Recognition**:
    - 7.6 [Spoken Language Identification | Pitch - Pi School (YouTube)](https://www.youtube.com/watch?v=MM0jm55m6tY)  
    - 7.7 [Spoken Language Identification using DNNs - Manish Singh (YouTube)](https://www.youtube.com/watch?v=YjABE-AxgjQ)
+
    **Spoken Emotion Recognition**:
    - 7.x [...]
 
@@ -123,3 +126,26 @@ This repository contains a structured roadmap for learning Python, mathematics, 
 
 ---
 
+## Projects
+
+---
+
+## Installation
+
+---
+
+## Usage
+
+---
+
+## Technologies Used
+
+---
+
+## Contributing
+
+---
+
+## License
+
+---
