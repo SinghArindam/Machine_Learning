@@ -163,7 +163,7 @@ Machine_Learning/
    - It's recommended to use a virtual environment:
      ```bash
      python -m venv venv
-     source .\venv\Scripts\activate
+     .\venv\Scripts\activate
      ```
 
 4. **Install necessary packages**:
@@ -178,7 +178,7 @@ Machine_Learning/
 ## Usage
 Use it folowing the roadmap, to dive into Research fields of Machine Learning. This is specifically tailored for Speech and Audio Processing for ML.
 - 1. AudioProcessingForML is an updated version of resources- codes and notes from Valerio Velardo, read respective Readme.md for the same.
-- 2. Learn Pytorch is follow along of [Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
+- 2. Learn Pytorch - is a follow-along of [Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
 - 3. Practice Projects can be used for learning through small projects,  read respective Readme.md for the same.
 ---
 
