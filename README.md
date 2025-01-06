@@ -85,9 +85,9 @@ Machine_Learning/
 ### 4. Machine Learning 
    **Recommended Resources**: 
 
-   - 4.1 Andrew Ng Coursera 3-Course Series  
+   - 4.1 [Andrew Ng Coursera 3-Course Series](https://www.coursera.org/specializations/machine-learning-introduction)  
    - 4.2 [YouTube - Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/)  
-   - 4.3 Extra: Deep Learning Specialization (5-course series) on Coursera  
+   - 4.3 Extra: [Deep Learning Specialization (5-course series) on Coursera](https://www.coursera.org/specializations/deep-learning)
    - 4.4 Learn the usage of [Hugging Face](https://huggingface.co/)  
 
 ---
@@ -190,6 +190,9 @@ Use it folowing the roadmap, to dive into Research fields of Machine Learning. T
   - Scikit-learn
   - TensorFlow/PyTorch
   - Matplotlib/Seaborn for visualization
+
+- **For Practice_Projects**: Python, HTML, JavaScript, ReactJS, Ollama
+- **Libraries**: fastapi, uvicorn, pydantic, ollama
 
 ---
 
