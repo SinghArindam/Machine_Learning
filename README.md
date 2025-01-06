@@ -213,5 +213,10 @@ Contributions are welcome! Please follow these steps:
 ---
 
 ## License
+MIT License
+
+Copyright (c) 2025 Arindam Singh
+
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/SinghArindam/Machine_Learning/blob/main/LICENSE) file for more details.
 
 ---
