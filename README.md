@@ -192,7 +192,7 @@ Use it folowing the roadmap, to dive into Research fields of Machine Learning. T
   - Matplotlib/Seaborn for visualization
 
 - **For Practice_Projects**: Python, HTML, JavaScript, ReactJS, Ollama
-- **Libraries**: fastapi, uvicorn, pydantic, ollama
+  - **Libraries**: fastapi, uvicorn, pydantic, ollama
 
 ---
 
