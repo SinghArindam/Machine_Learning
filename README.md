@@ -9,6 +9,7 @@ Machine_Learning/
 ├── AudioSignalProcessingForML/  # Resources and projects related to audio signal processing in ML
 ├── CO327_LAB/                   # Laboratory exercises and materials for CO327 course
 ├── Learn_Pytorch/               # Tutorials and projects focused on learning PyTorch
+├── Notes/                       # All relevant notes gathered in one folder
 ├── Practice_Projects/           # Various practice projects for hands-on ML experience
 ├── README.md                    # Overview of the repository
 ```
@@ -19,7 +20,7 @@ Machine_Learning/
 1. [Roadmap](#roadmap)
 2. [Projects](#projects)
 3. [Installation](#installation)
-4. [Usage](#usage)
+4. [Usage](#usage) (Includes [Notes](#notes))
 5. [Technologies Used](#technologies-used)
 6. [Contributing](#contributing)
 7. [License](#license)
@@ -132,8 +133,14 @@ Machine_Learning/
    **Speaker Diarization**:
    - 7.x [...]
 
-   **Research Papers**:
-   - 7.x [...]
+   ### **Research Papers**: 
+- **Spoken Language Recognition**:
+   - 1. 
+   - 2. 
+
+- **Spoken Emotion Recognition**:
+   - 1. 
+   - 2. 
 
 ---
 
@@ -180,6 +187,13 @@ Use it folowing the roadmap, to dive into Research fields of Machine Learning. T
 - 1. AudioProcessingForML is an updated version of resources- codes and notes from Valerio Velardo, read respective Readme.md for the same.
 - 2. Learn Pytorch - is a follow-along of [Learn PyTorch for deep learning in a day. Literally. - Daniel Bourke (YouTube)](https://www.youtube.com/watch?v=Z_ikDlimN6A) .
 - 3. Practice Projects can be used for learning through small projects,  read respective Readme.md for the same.
+
+   ## [Notes](Notes/)
+   - [AudioSignalProcessingForML](Notes/AudioSignalProcessingForML.pdf) - All Notes, ppts, codes, my notes and annotations combined from Valerio's respective course on YouTube
+   - [Convolution Neural Network](Notes/Convolution%20Neural%20Network.pdf)
+   - [ML_Lession Plan_2023-24](Notes/ML_Lession%20Plan_2023-24.pdf) - Topic wise Machine Learning Learning-Order
+   - [...]()
+
 ---
 
 ## Technologies Used
