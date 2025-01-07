@@ -190,7 +190,7 @@ Use it folowing the roadmap, to dive into Research fields of Machine Learning. T
 
    ## [Notes](Notes/)
    - [AudioSignalProcessingForML](Notes/AudioSignalProcessingForML.pdf) - All Notes, ppts, codes, my notes and annotations combined from Valerio's respective course on YouTube
-   - [Convolution Neural Network](Notes/Convolution%20Neural%20Network.pdf)
+   - [Convolution Neural Network](Notes/Convolution%20Neural%20Network.pdf) - CNN & Residue Nets Notes
    - [ML_Lession Plan_2023-24](Notes/ML_Lession%20Plan_2023-24.pdf) - Topic wise Machine Learning Learning-Order
    - [...]()
 
