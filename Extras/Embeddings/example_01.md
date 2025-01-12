@@ -1,3 +1,7 @@
+# To Be converted to ipynb
+
+
+
 Below are example implementations for D-vector, I-vector, and X-vector using PyTorch. The code demonstrates simplified workflows for understanding the concepts.
 
 
