@@ -48,6 +48,11 @@ Machine_Learning/
      - 1.3 Advanced Topics:
        - 1.3.1 List Comprehension  
        - 1.3.2 Class Objects  
+   
+      - [Python Beginner Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
+      - [Python Intermediate Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv)
+      - [Python Expert Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP)
+      - [Python in 75 mins - **Pre-Requisites Required** - MUST KNOW ATLEAST BEGINNER PYTHON](https://youtu.be/VchuKL44s6E?si=Mjwu4sBz89TxYQLo)
 
 ---
 
